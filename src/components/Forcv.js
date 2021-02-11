@@ -34,7 +34,7 @@ const Forcv = () =>{
 
             <div>
                
-               <a href="https://drive.google.com/file/d/1UHkcFN71ND8WuVB1iiciOe_mWXyJx_lS/view?usp=sharing"><img className="cv" src={Cv} width="800px"></img></a> 
+               <a href="https://drive.google.com/file/d/1oh5B_G52Cj-M-N869trbtzogLAJN77TS/view?usp=sharing"><img className="cv" src={Cv} width="800px"></img></a> 
             </div>
 
 
