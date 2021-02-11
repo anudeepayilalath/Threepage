@@ -5,7 +5,7 @@ import Giffy from '../yy3.gif';
 import Mygif from '../source.gif';
 // import Giff2 from '../60203889.png';
 
-import Cv from '../pdfpng.png';
+import Cv from '../newresume.png';
 import Usflag from '../usflag.png';
 import {Link} from 'react-router-dom';
 
